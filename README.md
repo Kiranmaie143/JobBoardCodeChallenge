@@ -23,7 +23,7 @@ New Live Football World Cup Score Board that shows matches and scores.
 ### Installing
 
 ```
-npm install tdd-score-board-react
+npm install JobBoardCodeChallenge
 ```
 
 ### Usage
